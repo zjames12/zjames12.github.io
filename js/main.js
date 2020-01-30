@@ -6,8 +6,9 @@ d3.queue()
     .defer(d3.csv, "data/county_names.csv")
     .await(ready);
 
-function ready(error, ga, dataRaw1, dataRaw2) {
-    if (error) throw error;
+function ready(ga, dataRaw1, dataRaw2) {
+// function ready(error, ga, dataRaw1, dataRaw2) {
+    // if (error) throw error;
 
     var data2 = d3.map();
     dataRaw2.forEach(function(d) { data2.set(d.id, d.value); });
