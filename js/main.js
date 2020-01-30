@@ -22,9 +22,9 @@ function ready(error, ga, dataRaw1, dataRaw2) {
 // CHANGEMAP2 function : changes map 2
 function changeMap2(file) {
     var fname = "data/datasets/" + file //+ " " + newGeo + ".csv";
-
-    d3.csv(fname, function(error, dataRaw) {
-        if (error) throw error;
+    d3.csv(fname, function(dataRaw) {
+    // d3.csv(fname, function(error, dataRaw) {
+        // if (error) throw error;
 
         var data = d3.map();
         dataRaw.forEach(function(d) { data.set(d.id, d.value); });
