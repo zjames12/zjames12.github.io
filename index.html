@@ -1,1 +1,111 @@
-"Hello World" 
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Health Data Visualization</title>
+
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+
+        <!-- <script src="js/d3.min.js" type="text/javascript"></script> -->
+        <script src="http://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+        <script src="js/d3-scale-chromatic.v1.min.js" type="text/javascript"></script>
+        <script src="js/topojson.v2.min.js" type="text/javascript"></script>
+        <script src="js/tip.js" type="text/javascript"></script>
+        <script src="js/jquery-3.2.1.min.js" type="text/javascript"></script>
+        <script src="js/iframeResizer.contentWindow.js"></script>
+
+        <script src="js/map.js" type="text/javascript"></script>
+        <script src="js/script.js" type="text/javascript"></script>
+        <script src="js/main.js" type="text/javascript"></script>
+    </head>
+    <body>
+        <div class="row">
+            <div class="col-sm-2">
+                <a href="img/ga-county-names.gif"><b>Reference Map for Georgia County Names</b></a>
+
+				<hr/>
+                <label><font id='warning' color="red"></font></label>
+
+                <label for='filter' id='filter_label'>Filter By</label>
+                <select id='filter' class='form-control target1'>
+				            <option class='td' value='0'>Select One</option>
+					          <option class='td' value='All'>All</option>
+					          <option class='td' class='td' value='Medicaid'>Medicaid Insurance</option>
+					          <option class='td' value='Commercial'>Commercial Insurance</option>
+					          <option value='Black'>Black</option>
+					          <option value='Hispanic'>Hispanic</option>
+					          <option value='White'>White</option>
+				        </select>
+
+
+                <form id="demographic-type">
+                    <input type="radio" name="demographic-type" value="Adult" checked>Adult
+                    <input type="radio" name="demographic-type" value="Pediatric">Pediatric
+                </form>
+
+                <input hidden id="file_placeholder" value=""></input>
+
+                <label hidden id='level_label'>Level</label>
+                <form hidden id="select1">
+                    <input checked type='radio' name='select1_choice' value="County">Counties</option>
+                    <input type='radio' name='select1_choice' value="Census Tract">Census Tracts</option>
+                </form>
+
+                <hr/>
+
+                <div class="comp">
+                    <label id='comp1_label' for="comp1">Category of Diabetes Determinants</label>
+                    <select id="comp1" class="form-control target1">
+                        <option disabled selected selected="selected">Select One</option>
+                    </select>
+
+					<label id='comp2_label' for="comp2">Subcategory of Diabetes Determinant</label>
+                    <select id="comp2" class="form-control target1">
+                        <option selected="selected">Select One</option>
+                    </select>
+
+					<label id='comp3_label' for="comp3">2nd Subcategory of Health Determinant</label>
+                    <select id="comp3" class="form-control target1">
+                        <option selected="selected">Select One</option>
+                    </select>
+
+					<label id='comp4_label' for="comp4">3rd Subcategory of Health Determinant</label>
+                    <select id="comp4" class="form-control target1">
+                        <option selected="selected">Select One</option>
+                    </select>
+
+                    <form hidden id="select2">
+                        <input checked type='radio' name='select2_choice' value="County">Counties</option>
+                        <input type='radio' name='select2_choice' value="Tract">Census Tracts</option>
+                    </form>
+
+                </div>
+            </div>
+
+
+            <div class="col-sm-5">
+
+
+                <div id="map2"></div>
+                <div align="center">
+                    <input id='data_map2' type="button"  value="Download Data"/>
+                    <input id='image_map2' type="submit" download="map.png" value="Download Image"/>
+                </div>
+                <div align="justify">
+                    <p id="descriptiontwo"></p>
+                </div>
+                <div align="justify">
+                    <p id="source2"></p>
+                </div>
+            </div>
+            <div id="legend1" style="display: inline-block"></div>
+
+
+
+
+        </div>
+    </body>
+</html>

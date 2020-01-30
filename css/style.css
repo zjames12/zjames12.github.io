@@ -1,0 +1,34 @@
+.county {
+    fill: none;
+    opacity: 0.95;
+    stroke: white;
+    stroke-width: 0px;
+}
+
+.tract {
+    fill: gray;
+}
+
+.d3-tip-map1 {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+    pointer-events: none;
+}
+
+.d3-tip-map2 {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+    pointer-events: none;
+}
+
+path:hover {
+    fill-opacity: .7;
+}

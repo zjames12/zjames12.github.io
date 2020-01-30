@@ -1,0 +1,525 @@
+Comparative/Demographics/Age/Median Age/Demo Age All County
+The map shows the median age for all population, estimated at the county level.
+
+Comparative/Demographics/Age/Median Age/Demo Age All Tract
+The map shows the median age for all population, estimated at the census tract level.
+
+Comparative/Demographics/Age/Percent of Population Adult (18-64)/Demo Age 18_34 County
+The map shows the percent of all people aged 18 to 64 out of total population, estimated at the county level.
+
+Comparative/Demographics/Age/Percent of Population Adult (18-64)/Demo Age 18_34 Tract
+The map shows the percent of all people aged 18 to 64 out of total population, estimated at the census tract level.
+
+Comparative/Demographics/Age/Percent of Population Adult (Over 65)/Demo Age O65 County
+The map shows the percent of all people over 65 out of total population, estimated at the county level.
+
+Comparative/Demographics/Age/Percent of Population Adult (Over 65)/Demo Age O65 Tract
+The map shows the percent of all people over 65 out of total population, estimated at the census tract level.
+
+Comparative/Demographics/Age/Percent of Population Children (Under 18)/Demo Age 18 County
+The map shows the percent of all children (people under the age of 18) out of total population, estimated at the county level.
+
+Comparative/Demographics/Age/Percent of Population Children (Under 18)/Demo Age 18 Tract
+The map shows the percent of all children (people under the age of 18) out of total population, estimated at the census tract level.
+
+Comparative/Demographics/Disability/Demo Disability All County
+The map shows the percent of people with any sort of disability (hearing, vision, cognitive, ambulatory, self-care or independent living disability), estimated at the county level.
+
+Comparative/Demographics/Disability/Demo Disability All Tract
+The map shows the percent of people with any sort of disability (hearing, vision, cognitive, ambulatory, self-care or independent living disability), estimated at the census tract level.
+
+Comparative/Demographics/Race/Black/Demo Race Black County
+The map shows the percentage of Black population estimated at the county level
+
+Comparative/Demographics/Race/Black/Demo Race Black Tract
+The map shows the percentage of Black population estimated at the census tract level.
+
+Comparative/Demographics/Race/Hispanic/Demo Race Hispanic County
+The map shows the percentage of Hispanic population estimated at the county level
+
+Comparative/Demographics/Race/Hispanic/Demo Race Hispanic Tract
+The map shows the percentage of Hispanic population estimated at the census tract level.
+
+Comparative/Demographics/Race/White/Demo Race White County
+The map shows the percentage of White population estimated at the county level.
+
+Comparative/Demographics/Race/White/Demo Race White Tract
+The map shows the percentage of White population estimated at the census tract level.
+
+Comparative/Demographics/Total Population/Total Population County
+The map shows the total population of each county.
+
+Comparative/Demographics/Total Population/Total Population Tract
+The map shows the total population of each census tract.
+
+Comparative/Demographics/Veteran/Demo Veteran All County
+The map shows the percentage of US. veterans of total population, including war and peacetime veterans, estimated at the county level.
+
+Comparative/Demographics/Veteran/Demo Veteran All Tract
+The map shows the percentage of US. veterans of total population, including war and peacetime veterans, estimated at the census tract level.
+
+Comparative/Economic/County Charges for Service/All Charges for Service/Econ Charges_for_Service All County
+The map shows the total charges for service for each county. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Charges for Service/Culture and Recreation/Econ Charges_for_Service Culture_and_Recreation County
+The map shows the percent culture and recreation charges for service out of total charges for service for each county. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Charges for Service/Public Safety/Econ Charges_for_Service Public_Safety County
+The map shows the percent public safety (including special fire protection and ambulance fees) charges for service out of total charges for service for each county. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Charges for Service/Utilities and Enterprise/Econ Charges_for_Service Utilities_and_Enterprise County
+The map shows the percent utilities and enterprise (including Sanitation, Refuse Collection, Landfill Use Fees, Water & Sewer, Electric Gas, Airport, Parking) charges for service out of total charges for service for each county. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Expenditures/All Expenses/Econ Expenditures All County
+The map shows the total county government expenditures for each county. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Expenditures/General Government and Judicial/Econ Expenditures Judicial Gov County
+The map shows the percent expenditures allocated to General Government and Judicial Courts (Legislative, Executive, Administration, Courts, Administration, etc.) for each county. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Expenditures/Health and Welfare/Econ Expenditures Health_and_Welfare County
+The map shows the percent expenditures allocated to Health and Welfare for each county government. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Expenditures/Housing, Development, Culture and Recreation/Econ Expenditures Culture_and_Recreation County
+The map shows the percent expenditures allocated to Housing, Development, Culture and Recreation (including Parks, Libraries, Recreation, Conservation, Planning, etc.) for each county government. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Expenditures/Public Safety and Public Works/Econ Expenditures Public_Safety County
+The map shows the percent expenditures allocated to  Public Safety and Public Works (including Police, Law Enforcement, Fire, Medical Emergencies, Administration, Sanitation, Water, Waste, Utilities, etc.) for each county government. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Investment Income/Econ Investment_Income All County
+The map shows the investment income for each county government. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Revenue/Econ Revenue All County
+The map shows the Total Revenue for each county government. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Taxes/All Taxes/Econ Taxes All County
+The map shows the Total Taxes Collected for each county government. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Taxes/Real and Personal Property Taxes/Econ Taxes Real_and_Personal_Property County
+The map shows the Total Real and Personal Property Taxes Collected for each county government. Counties without data for this factor are marked in white.
+
+Comparative/Economic/County Taxes/Sales Tax/Econ Taxes Sales County
+The map shows the Total Sales Tax Collected for each county government. Counties without data for this factor are marked in white.
+
+Comparative/Economic/Farm Acres/Econ FarmAcres All County
+The maps shows total Farm Acreage for any type of farm land, estimated for each county.
+
+Comparative/Economic/Farm Expenses/Econ FarmExpenses All County
+The maps shows total Farm Production/Operating Expense, measured in USD per operation, estimated for each county.
+
+Comparative/Economic/Farm Income/Econ FarmIncome All County
+The maps shows total Farm Income, as net cash of operations, measured in USD per operation, estimated for each county.
+
+Comparative/Economic/Farm Production/All Production/Econ FarmProduction All County
+The maps shows total Farm Production/Gate, measured by net value of the product when it leaves the farm in US dollars after marketing costs have been subtracted, estimated for each county.
+
+Comparative/Economic/Farm Production/Crops/Econ FarmProduction Crops County
+The maps shows percentage of farm gate (measured by net value (USD) of the product when it leaves the farm after marketing costs have been subtracted) attributed to crops, estimated for each county.
+
+Comparative/Economic/Farm Production/Forestry/Econ FarmProduction Forestry County
+The maps shows percentage of farm gate (measured by net value (USD) of the product when it leaves the farm after marketing costs have been subtracted) attributed to forestry, estimated for each county.
+
+Comparative/Economic/Farm Production/Fruits/Econ FarmProduction FruitsCounty
+The maps shows percentage of farm gate (measured by net value (USD) of the product when it leaves the farm after marketing costs have been subtracted) attributed to fruits and nuts, estimated for each county.
+
+Comparative/Economic/Farm Production/Livestock/Econ FarmProduction Livestock County
+The maps shows percentage of farm gate (measured by net value (USD) of the product when it leaves the farm after marketing costs have been subtracted) attributed to livestock and aquaculture, estimated for each county.
+
+Comparative/Economic/Farm Production/Ornamental/Econ FarmProduction Ornamental County
+The maps shows percentage of farm gate (measured by net value (USD) of the product when it leaves the farm after marketing costs have been subtracted) attributed to Ornamental Horticulture, estimated for each county.
+
+Comparative/Economic/Farm Production/Poultry/Econ FarmProduction Poultry County
+The maps shows percentage of farm gate (measured by net value (USD) of the product when it leaves the farm after marketing costs have been subtracted) attributed to Poultry and Eggs, estimated for each county.
+
+Comparative/Economic/Farm Production/Vegetables/Econ FarmProduction Vegetables County
+The maps shows percentage of farm gate (measured by net value (USD) of the product when it leaves the farm after marketing costs have been subtracted) attributed to Vegetables, estimated for each county.
+
+Comparative/Education/Attainment, College Degree/All/Edu CollegeAttainment All County
+The map shows the percentage of total population with a college degree (Bachelors or higher) at the county level.
+
+Comparative/Education/Attainment, College Degree/All/Edu CollegeAttainment All Tract
+The map shows the percentage of total population with a college degree (Bachelors or higher) at the census tract level.
+
+Comparative/Education/Attainment, College Degree/Black/Edu CollegeAttainment Black County
+The map shows the percentage of Black population with a college degree (Bachelors or higher) at the county level.
+
+Comparative/Education/Attainment, College Degree/Black/Edu CollegeAttainment Black Tract
+The map shows the percentage of Black population with a college degree (Bachelors or higher) at the census tract level.
+
+Comparative/Education/Attainment, College Degree/Hispanic/Edu ColegeAttainment Hispanic County
+The map shows the percentage of Hispanic population with a college degree (Bachelors or higher) at the county level.
+
+Comparative/Education/Attainment, College Degree/Hispanic/Edu ColegeAttainment Hispanic Tract
+The map shows the percentage of Hispanic population with a college degree (Bachelors or higher) at the census tract level.
+
+Comparative/Education/Attainment, College Degree/White/Edu CollegeAttainment White County
+The map shows the percentage of White population with a college degree (Bachelors or higher) at the county level.
+
+Comparative/Education/Attainment, College Degree/White/Edu CollegeAttainment White Tract
+The map shows the percentage of White population with a college degree (Bachelors or higher) at the census tract level.
+
+Comparative/Education/Attainment, High School Diploma/All/Edu HSAttainment All County
+The map shows the percentage of total population graduating from High School (or equivalent program) at the county level.
+
+Comparative/Education/Attainment, High School Diploma/All/Edu HSAttainment All Tract
+The map shows the percentage of total population graduating from High School (or equivalent program) at the census tract level.
+
+Comparative/Education/Attainment, High School Diploma/Black/Edu HSAttainment Black County
+The map shows the percentage of Black population graduating from High School (or equivalent program) at the county level.
+
+Comparative/Education/Attainment, High School Diploma/Black/Edu HSAttainment Black Tract
+The map shows the percentage of Black population graduating from High School (or equivalent program) at the census tract level.
+
+Comparative/Education/Attainment, High School Diploma/Hispanic/Edu HSAttainment Hispanic County
+The map shows the percentage of Hispanic population graduating from High School (or equivalent program) at the county level.
+
+Comparative/Education/Attainment, High School Diploma/Hispanic/Edu HSAttainment Hispanic Tract
+The map shows the percentage of Hispanic population graduating from High School (or equivalent program) at the census tract level.
+
+Comparative/Education/Attainment, High School Diploma/White/Edu HSAttainment White County
+The map shows the percentage of White population graduating from High School (or equivalent program) at the county level.
+
+Comparative/Education/Attainment, High School Diploma/White/Edu HSAttainment White Tract
+The map shows the percentage of White population graduating from High School (or equivalent program) at the census tract level.
+
+Comparative/Education/Enrollment/Ages 18 to 34/Edu Enrollment 18_34 County
+The map shows the percentage of people aged 18 to 34 enrolled in any type of education institution at the county level.
+
+Comparative/Education/Enrollment/Ages 18 to 34/Edu Enrollment 18_34 Tract
+The map shows the percentage of people aged 18 to 34 enrolled in any type of education institution at the census tract level.
+
+Comparative/Education/Enrollment/Ages 5 to 17/Edu Enrollment 5_17 County
+The map shows the percentage of people aged 5 to 17 enrolled in any type of education institution at the county level.
+
+Comparative/Education/Enrollment/Ages 5 to 17/Edu Enrollment 5_17 Tract
+The map shows the percentage of people aged 5 to 17 enrolled in any type of education institution at the census tract level.
+
+Comparative/Education/Enrollment/Ages over 35/Edu Enrollment O35 County
+The map shows the percentage of people over the age of 35 enrolled in any type of education institution at the county level.
+
+Comparative/Education/Enrollment/Ages over 35/Edu Enrollment O35 Tract
+The map shows the percentage of people over the age of 35 enrolled in any type of education institution at the census tract level.
+
+Comparative/Education/Enrollment/Ages under 5/Edu Enrollment U5 County
+The map shows the percentage of people under the age of 5 enrolled in any type of education institution at the county level.
+
+Comparative/Education/Enrollment/Ages under 5/Edu Enrollment U5 Tract
+The map shows the percentage of people under the age of 5 enrolled in any type of education institution at the census tract level.
+
+Comparative/Education/Enrollment/Enrollment, Graduate/Edu Enrollment Grad County
+The map shows the percentage of people enrolled in a graduate college program at the county level.
+
+Comparative/Education/Enrollment/Enrollment, Graduate/Edu Enrollment Grad Tract
+The map shows the percentage of people enrolled in a graduate college program at the census tract level.
+
+Comparative/Education/Enrollment/Enrollment, K12/Edu Enrollment K12 County
+The map shows the percentage of people enrolled in public and private Kindergarten through 12th grade (K12) schools at the county level.
+
+Comparative/Education/Enrollment/Enrollment, K12/Edu Enrollment K12 Tract
+The map shows the percentage of people enrolled in public and private Kindergarten through 12th grade (K12) schools at the census tract level.
+
+Comparative/Education/Enrollment/Enrollment, PreK/Edu Enrollment Prek County
+The map shows the percentage of people enrolled in public and private Pre-school/PreK or pre-elementary education schools at the county level.
+
+Comparative/Education/Enrollment/Enrollment, PreK/Edu Enrollment Prek Tract
+The map shows the percentage of people enrolled in public and private Pre-school/PreK or pre-elementary education schools at the census tract level.
+
+Comparative/Education/Enrollment/Enrollment, Undergraduate/Edu Enrollment Undergrad County
+The map shows the percentage of people enrolled in public and private undergraduate degree programs at the county level.
+
+Comparative/Education/Enrollment/Enrollment, Undergraduate/Edu Enrollment Undergrad Tract
+The map shows the percentage of people enrolled in public and private undergraduate degree programs at the census tract level.
+
+Comparative/Education/Enrollment/Private/Edu Enrollment Private County
+The map shows the percentage of people enrolled in private education in respect to total education enrollment at the county level.
+
+Comparative/Education/Enrollment/Private/Edu Enrollment Private Tract
+The map shows the percentage of people enrolled in private education in respect to total education enrollment at the census tract level.
+
+Comparative/Education/Enrollment/Public/Edu Enrollment Public County
+The map shows the percentage of people enrolled in public education in respect to total education enrollment at the county level.
+
+Comparative/Education/Enrollment/Public/Edu Enrollment Public Tract
+The map shows the percentage of people enrolled in public education in respect to total education enrollment at the census tract level.
+
+Comparative/Education/K-12 Availability/Edu Availability County
+The map shows the count of private and public K-12 (primary and secondary) education institutions for each county.
+
+Comparative/Healthcare Insurance/Insurer Participation in Exchanges/coverage County
+This map shows the County by County Analysis of Current Projected Insurer Participation in Health Insurance Exchanges. Counties with values of 4 have 4 or more carriers. More information can be found <a href='https://www.cms.gov/Newsroom/MediaReleaseDatabase/Press-releases/2017-Press-releases-items/2017-06-13.html'>here</a>.
+
+Comparative/Healthcare Insurance/Medicaid & Medicare/Number of Adults on Medicaid/adults medicaid
+This map shows the number of Adults with Medicaid insurance at the county level.
+
+Comparative/Healthcare Insurance/Medicaid & Medicare/Number of Children on Medicaid/Number of Children on Medicaid County
+This map shows the number of children with Medicaid insurance(PeachCare) at the county level.
+
+Comparative/Healthcare Insurance/Medicaid & Medicare/Percent Medicare (65+)/medicare County
+This map shows the percent of adults (65+) with Medicare insurance(PeachCare) out of the total population at the county level.
+
+Comparative/Healthcare Insurance/Medicaid & Medicare/Percent of Adults on Medicaid/adult medicaid County
+This map shows the percent of Adults with Medicaid insurance out of total adults at the county level.
+
+Comparative/Healthcare Insurance/Medicaid & Medicare/Percent of Children on Medicaid/children medicaid County
+This map shows the percent of children with Medicaid insurance out of total children at the county level.
+
+Comparative/Healthcare Insurance/Medicaid & Medicare/Percent of Disabled on Medicaid/disabled medicaid County
+This map shows the percent of disabled people with Medicaid insurance out of the total disabled, non-institutionalized population at the county level.
+
+Comparative/Healthcare Insurance/Medicaid & Medicare/Percent of Total Population on Medicaid/all medicaid County
+This map shows the percent of all people with Medicaid insurance out of total county level population.
+
+Comparative/Healthcare Insurance/Uninsured/Number Adults Uninsured/adults uninsured number  County
+This map shows the number of adults (18-64) unisured at the county level.
+
+Comparative/Healthcare Insurance/Uninsured/Number Children Uninsured/SAHIE_20JUL17_13_43_38_85 County
+This map shows the number of children unisured at the county level.
+
+Comparative/Healthcare Insurance/Uninsured/Percent Adults Uninsured/percent adults uninsured  County
+This map shows the percent of adults (18-64) unisured over all adults (ages 18-64) at the county level.
+
+Comparative/Healthcare Insurance/Uninsured/Percent Children Uninsured/SAHIE_20JUL17_13_43_38_85 County
+This map shows the percent of children unisured out of child population at the county level.
+
+Comparative/Heath Outcomes & Factors/Adult Obesity/obesity County
+This map shows the Percentage of adults that report a BMI of 30 or more at the county level
+
+Comparative/Heath Outcomes & Factors/Adult Smokers/smoking County
+This map shows the Percentage of adults who are current smokers at the county level
+
+Comparative/Heath Outcomes & Factors/Infant Mortality/infant mortality County
+This map shows the Number of all infant deaths (within 1 year), per 1,000 live births at the county level. Counties without data are marked in gray.
+
+Comparative/Heath Outcomes & Factors/Low Birth Rate/lbw County
+This map shows the Percentage of live births with low birthweight (< 2500 grams) at the county level
+
+Comparative/Heath Outcomes & Factors/Premature Death/premature death County
+This map shows the Years of potential life lost before age 75, per 100,000 population. 
+
+Comparative/Heath Outcomes & Factors/Teen Pregnancy/tp County
+This map shows the Number of births per 1,000 female population ages 15-19  at the county level.
+
+Comparative/Housing/Building Permits/building permits building County
+This map shows the number of building permits (per building, not unit) per county.
+
+Comparative/Housing/Home Market Value/Home Market Value County
+To calculate median home values for 3,119 counties and county-equivalents in the United States, NAR applied the House Price Index growth from FHFA to the latest housing data from the American Community Survey (ACS). Home values represent the value of all homes instead of home sales.
+
+Comparative/Housing/Housing Facilities/Percent with kitchen/kitchen County
+This map shows the percent of occupied housing (renter and owner) with a kitchen facility at the county level
+
+Comparative/Housing/Housing Facilities/Percent with kitchen/kitchen Tract
+This map shows the percent of occupied housing (renter and owner) with a kitchen facility at the tract level
+
+Comparative/Housing/Housing Facilities/Percent with vehicle access/vehicle County
+This map shows the percent of occupied housing (renter and owner) with access to one or more vehicle, at the county level
+
+Comparative/Housing/Housing Facilities/Percent with vehicle access/vehicle Tract
+This map shows the percent of occupied housing (renter and owner) with access to one or more vehicle, at the tract level
+
+Comparative/Housing/Housing Facilities/Percent withl plumbing/plumbing County
+This map shows the percent of occupied housing (renter and owner) with full plumbing at the county level
+
+Comparative/Housing/Housing Facilities/Percent withl plumbing/plumbing Tract
+This map shows the percent of occupied housing (renter and owner) with full plumbing at the tract level
+
+Comparative/Housing/Mobile Homes/mobile homes County
+This map shows the percent of all occupied housing units that are mobile homes (or other units of housing that do not have a structure) at the county level
+
+Comparative/Housing/Mobile Homes/mobile homes Tract
+This map shows the percent of all occupied housing units that are mobile homes (or other units of housing that do not have a structure) at the tract level
+
+Comparative/Housing/Monthly Housing Cost/monthly housing cost all County
+This map shows the Median Monthly Housing Cost in USD for all occupied housing units by county
+
+Comparative/Housing/Monthly Housing Cost/monthly housing cost all Tract
+This map shows the Median Monthly Housing Cost in USD for all occupied housing units by census tract
+
+Comparative/Socioeconomic/Crime Rates/All Crimes/SocioEcon Crime All County
+The map shows the number of crimes (violent and non violent) per 1000 people of population for each county.
+
+Comparative/Socioeconomic/Crime Rates/NonViolent Crimes/SocioEcon Crime NonViolent County
+The map shows the number of Non-Violent crimes (including Burglary, Larceny, Vehicle Theft) per 1000 people of population for each county in the year of 2015.
+
+Comparative/Socioeconomic/Crime Rates/Violent Crimes/SocioEcon Crime Violent County
+The map shows the number of Violent crimes (including murder, rape, assault, robbery) per 1000 people of population for each county in the year of 2015.
+
+Comparative/Socioeconomic/Families under Poverty Line/All families/SocioEcon FamPoverty All Tract
+The map shows the percentage of all families living under the poverty line at the census tract level.
+
+Comparative/Socioeconomic/Families under Poverty Line/Families with children/SocioEcon FamPoverty U18 Tract
+The map shows the percentage of all families living under the poverty line who have one or more child under the age of 18 at the census tract level.
+
+Comparative/Socioeconomic/Food Stamps and SNAP/All Households/SocioEcon FoodStamps All Tract
+The map shows the percentage of all households receiving food stamps/SNAP assistance at the census tract level.
+
+Comparative/Socioeconomic/Food Stamps and SNAP/Black Households/SocioEcon FoodStamps Black Tract
+The map shows the percentage of Black households receiving food stamps/SNAP assistance at the census tract level.
+
+Comparative/Socioeconomic/Food Stamps and SNAP/Hispanic Households/SocioEcon FoodStamps Hispanic Tract
+The map shows the percentage of Hispanic households receiving food stamps/SNAP assistance at the census tract level.
+
+Comparative/Socioeconomic/Food Stamps and SNAP/White Households/SocioEcon FoodStamps White Tract
+The map shows the percentage of White households receiving food stamps/SNAP assistance at the census tract level.
+
+Comparative/Socioeconomic/Labor Force Participation Rate/All People/SocioEcon LFP All Tract
+The map shows the percentage of all people above the age of 16 participating in the labor force at the census tract level.
+
+Comparative/Socioeconomic/Labor Force Participation Rate/Black/SocioEcon LFP Black Tract
+The map shows the percentage of Black people above the age of 16 participating in the labor force at the census tract level.
+
+Comparative/Socioeconomic/Labor Force Participation Rate/Hispanic/SocioEcon LFP Hispanic Tract
+The map shows the percentage of Hispanic people above the age of 16 participating in the labor force at the census tract level.
+
+Comparative/Socioeconomic/Labor Force Participation Rate/Only people ages 18 to 34/SocioEcon LFP 18_34 Tract
+The map shows the percentage of people ages 18 to 34 participating in the labor force at the census tract level.
+
+Comparative/Socioeconomic/Labor Force Participation Rate/Only people ages 35 to 64/SocioEcon LFP 35_65 Tract
+The map shows the percentage of people ages 35 to 64 participating in the labor force at the census tract level.
+
+Comparative/Socioeconomic/Labor Force Participation Rate/Only people ages 65 or above/SocioEcon LFP O65 Tract
+The map shows the percentage of people over the age of 65 participating in the labor force at the census tract level.
+
+Comparative/Socioeconomic/Labor Force Participation Rate/People above Poverty Line/SocioEcon LFP AbovePL Tract
+The map shows the percentage of people above the poverty line participating in the labor force at the census tract level.
+
+Comparative/Socioeconomic/Labor Force Participation Rate/People below Poverty Line/SocioEcon LFP BelowPL Tract
+The map shows the percentage of people below the poverty line participating in the labor force at the census tract level.
+
+Comparative/Socioeconomic/Labor Force Participation Rate/White/SocioEcon LFP White Tract
+The map shows the percentage of White people participating in the labor force at the census tract level.
+
+Comparative/Socioeconomic/People under Poverty Line/All People/SocioEcon Poverty All Tract
+The map shows the percentage of all people living under the poverty line at the census tract level.
+
+Comparative/Socioeconomic/People under Poverty Line/Children (under 18)/SocioEcon Poverty U18 Tract
+The map shows the percentage of all children (ages 18 and below) living under the poverty line at the census tract level.
+
+Comparative/Socioeconomic/People under Poverty Line/People 18 to 64/SocioEcon Poverty 18_65 Tract
+The map shows the percentage of all people ages 18 to 64 living under the poverty line at the census tract level.
+
+Comparative/Socioeconomic/People under Poverty Line/People over 65/SocioEcon Poverty O65 Tract
+The map shows the percentage of all people over the age of 65 living under the poverty line at the census tract level.
+
+Comparative/Socioeconomic/Unemployment Rate/Adults 18 to 64/SocioEcon Unemployed 18_34 Tract
+The map shows the percentage of adults aged 18 to 64 who are unemployed, estimated at the census tract level. See the formal ACS definition <a href='https://www.census.gov/people/laborforce/about/acs_employ.html'>here</a>.
+
+Comparative/Socioeconomic/Unemployment Rate/Adults over 65/SocioEcon Unemployed O65 Tract
+The map shows the percentage of adults over the age of 65 who are unemployed, estimated at the census tract level. See the formal ACS definition <a href='https://www.census.gov/people/laborforce/about/acs_employ.html'>here</a>.
+
+Comparative/Socioeconomic/Unemployment Rate/Black/SocioEcon Unemployed Black Tract
+The map shows the percentage of Black adults who are unemployed, estimated at the census tract level. See the formal ACS definition <a href='https://www.census.gov/people/laborforce/about/acs_employ.html'>here</a>.
+
+Comparative/Socioeconomic/Unemployment Rate/Hispanic/SocioEcon Unemployed Hispanic Tract
+The map shows the percentage of Hispanic adults who are unemployed, estimated at the census tract level. See the formal ACS definition <a href='https://www.census.gov/people/laborforce/about/acs_employ.html'>here</a>.
+
+Comparative/Socioeconomic/Unemployment Rate/White/SocioEcon Unemployed White Tract
+The map shows the percentage of White adults who are unemployed, estimated at the census tract level. See the formal ACS definition <a href='https://www.census.gov/people/laborforce/about/acs_employ.html'>here</a>.
+
+Comparative/Workforce/Healthcare Provider Count/Adult Primary Care/Adult Primary Care County
+The map shows the count of Adult Primary Care Health Providers by the county level. Primary Care includes providers working in the fields of General Practice, Family Medicine, and Internal Medicine, Physician Assistants, and Nurse Practitioners.
+
+Comparative/Workforce/Healthcare Provider Count/Dental Care/Dental Care County
+The map shows the count of Dental Care Health Providers by the county level. Dental Care includes Dental Hygienist and Dentists.
+
+Comparative/Workforce/Healthcare Provider Count/Pediatric Primary Care/Pediatric Primary Care County
+The map shows the count of Pediatric Primary Care Health Providers by the county level. Pediatric Primary Care includes providers working in the fields of Pediatrics, Adolescent Medicine, General Practice, Internal Medicine, Adolescent Medicine, and Family Medicine, and Pediatric Nurse Practitioners.
+
+Comparative/Workforce/Healthcare Provider Count/Special Care - Asthma/Asthma Care County
+The map shows the count of Asthma Care Health Providers by the county level. Asthma Care providers include Allopathic & Osteopathic Physicians specializing in Allergy & Immunology (which includes pediatric physicians).
+
+Comparative/Workforce/Healthcare Provider Count/Special Care - Geriatric/Geriatric County
+The map shows the count of Geriatric Care Health Providers by the county level. Geriatric Care includes providers that are classified to give geriatric care, including geriatric and family medicine physician, psychiatry, pharmacists, physical therapy, and respiratory therapists.
+
+Comparative/Workforce/Healthcare Provider Count/Special Care - Mental Health/Mental Health County
+The map shows the count of Mental Health Providers by the county level. Mental Health Care includes Psychiatric Nurses, Licensed Professional Counselors, Family Therapists, Psychiatrists, Psychologists, Social Workers, and Mental/Behavior Health Agencies, and Clinics and Centers.
+
+Comparative/Workforce/Healthcare Provider Count/Special Care - Obstetrics & Gynecology/OBGYN NPI County
+The map shows the count of Obstetrics & Gynecology Health Providers by the county level. An obstetrician/gynecologist possesses special knowledge, skills and professional capability in the medical and surgical care of the female reproductive system and associated disorders. This physician serves as a consultant to other physicians and as a primary physician for women.
+
+Comparative/Workforce/Healthcare Providers per Population/Adult Primary Care/Adult Primary Care County
+The map shows the count of Adult Primary Care Health Providers relative per 1000 people of the county population. Primary Care includes providers working in the fields of General Practice, Family Medicine, and Internal Medicine, Physician Assistants, and Nurse Practitioners.
+
+Comparative/Workforce/Healthcare Providers per Population/Dental Care/Dental Care County
+The map shows the count of Dental Care Health Providers per 1000 people of the county population. Dental Care includes Dental Hygienist and Dentists.
+
+Comparative/Workforce/Healthcare Providers per Population/Pediatric Primary Care/Pediatric Primary Care County
+The map shows the count of Pediatric Primary Care Health Providers per 1000 people of the county population. Pediatric Primary Care includes providers working in the fields of Pediatrics, Adolescent Medicine, General Practice, Internal Medicine, Adolescent Medicine, and Family Medicine, and Pediatric Nurse Practitioners.
+
+Comparative/Workforce/Healthcare Providers per Population/Special Care - Asthma/Asthma Care County
+The map shows the count of Asthma Care Health Providers per 1000 people of the county population. Asthma Care providers include Allopathic & Osteopathic Physicians specializing in Allergy & Immunology (which includes pediatric physicians).
+
+Comparative/Workforce/Healthcare Providers per Population/Special Care - Geriatric/Geriatric County
+The map shows the count of Geriatric Care Health Providers per 1000 people of the county population. Geriatric Care includes providers that are classified to give geriatric care, including geriatric and family medicine physician, psychiatry, pharmacists, physical therapy, and respiratory therapists.
+
+Comparative/Workforce/Healthcare Providers per Population/Special Care - Mental Health/Mental Health County
+The map shows the count of Mental Health Providers per 1000 people of the county population. Mental Health Care includes Psychiatric Nurses, Licensed Professional Counselors, Family Therapists, Psychiatrists, Psychologists, Social Workers, and Mental/Behavior Health Agencies, and Clinics and Centers.
+
+Comparative/Workforce/Healthcare Providers per Population/Special Care - Obstetrics & Gynecology/OBGYN NPI County
+The map shows the count of Obstetrics & Gynecology Health Providers per 1000 people of the county population. An obstetrician/gynecologist possesses special knowledge, skills and professional capability in the medical and surgical care of the female reproductive system and associated disorders. This physician serves as a consultant to other physicians and as a primary physician for women.
+
+Comparative/Workforce/Other Professions by Industry/Agriculture, forestry, fishing, hunting, and mining/Agriculture County
+The map shows the percentage of employment for Agriculture, forestry, fishing, hunting, and mining industries at the county level.
+
+Comparative/Workforce/Other Professions by Industry/Agriculture, forestry, fishing, hunting, and mining/Agriculture Tract
+The map shows the percentage of employment for Agriculture, forestry, fishing, hunting, and mining industries at the census tract level.
+
+Comparative/Workforce/Other Professions by Industry/Arts, entertainment, recreation and food services/Arts County
+The map shows the percentage of employment for Arts, entertainment, recreation and food services industries at the county level.
+
+Comparative/Workforce/Other Professions by Industry/Arts, entertainment, recreation and food services/Arts Tract
+The map shows the percentage of employment for Arts, entertainment, recreation and food services industries at the census tract level.
+
+Comparative/Workforce/Other Professions by Industry/Construction/Construction County
+The map shows the percentage of employment for construction industries at the county level.
+
+Comparative/Workforce/Other Professions by Industry/Construction/Construction Tract
+The map shows the percentage of employment for construction industries at the census tract level.
+
+Comparative/Workforce/Other Professions by Industry/Educational services, health care and social assistance/Edu Health County
+The map shows the percentage of employment for Educational services, health care and social assistance industries at the county level.
+
+Comparative/Workforce/Other Professions by Industry/Educational services, health care and social assistance/Edu Health Tract
+The map shows the percentage of employment for Educational services, health care and social assistance industries at the census tract level.
+
+Comparative/Workforce/Other Professions by Industry/Finance, insurance, real estate, rental and leasing/Finance County
+The map shows the percentage of employment for Finance, insurance, real estate, rental and leasing industries at the county level.
+
+Comparative/Workforce/Other Professions by Industry/Finance, insurance, real estate, rental and leasing/Finance Tract
+The map shows the percentage of employment for Finance, insurance, real estate, rental and leasing industries at the census tract level.
+
+Comparative/Workforce/Other Professions by Industry/Information/Info County
+The map shows the percentage of employment for Information industries at the county level.
+
+Comparative/Workforce/Other Professions by Industry/Information/Info Tract
+The map shows the percentage of employment for Information industries at the census tract level.
+
+Comparative/Workforce/Other Professions by Industry/Manufacturing/Manufacturing County
+The map shows the percentage of employment for Manufacturing industries at the county level.
+
+Comparative/Workforce/Other Professions by Industry/Manufacturing/Manufacturing Tract
+The map shows the percentage of employment for Manufacturing industries at the census tract level.
+
+Comparative/Workforce/Other Professions by Industry/Professional, scientific, management, and administrative/Prof County
+The map shows the percentage of employment for Professional, scientific, management, and administrative industries at the county level.
+
+Comparative/Workforce/Other Professions by Industry/Professional, scientific, management, and administrative/Prof Tract
+The map shows the percentage of employment for Professional, scientific, management, and administrative industries at the census tract level.
+
+Comparative/Workforce/Other Professions by Industry/Retail Trade/Retail County
+The map shows the percentage of employment for Retail Trade industries at the county level.
+
+Comparative/Workforce/Other Professions by Industry/Retail Trade/Retail Tract
+The map shows the percentage of employment for Retail Trade industries at the census tract level.
+
+Comparative/Workforce/Other Professions by Industry/Transportation, warehousing, and utilities/Transportation and warehousing County
+The map shows the percentage of employment for Transportation, warehousing, and utilities industries at the county level.
+
+Comparative/Workforce/Other Professions by Industry/Transportation, warehousing, and utilities/Transportation and warehousing Tract
+The map shows the percentage of employment for Transportation, warehousing, and utilities industries at the census tract level.
+
+Comparative/Workforce/Other Professions by Industry/Wholesale Trade/Wholesale County
+The map shows the percentage of employment for Wholesale Trade industries at the county level.
+
+Comparative/Workforce/Other Professions by Industry/Wholesale Trade/Wholesale Tract
+The map shows the percentage of employment for Wholesale Trade industries at the census tract level.
+
