@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: ""
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 # search: true
@@ -58,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ":earth_americas:"
+  name   : ":earth_asia::earth_americas::earth_africa:"
   avatar : "/assets/images/head_photo.jpg"
   bio    : ""
   links:
@@ -68,6 +67,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zjames12"
+    - label: "zj37 [at] cornell.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      
 
 footer:
   links:
@@ -93,3 +95,7 @@ defaults:
 # tag_archive:
 #   type: liquid
 #   path: /tags/
+
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
