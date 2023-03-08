@@ -57,18 +57,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ":earth_asia::earth_americas::earth_africa:"
+  name   : ""
   avatar : "/assets/images/head_photo.jpg"
   bio    : ""
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/zjames45/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zjames12"
-    - label: "zj37 [at] cornell.edu"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
+      url: "zj37@cornell.edu"
       
 
 footer:
