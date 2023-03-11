@@ -90,6 +90,8 @@ defaults:
       layout: single
       author_profile: true
 
+header:
+  overlay_color: "#FFF"
 # category_archive:
 #   type: liquid
 #   path: /categories/
